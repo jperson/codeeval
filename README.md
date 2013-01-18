@@ -1,4 +1,4 @@
 codeeval
 ========
 
-Random coding challenges
+Random coding challenges done in java and/or clojure
